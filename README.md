@@ -68,11 +68,10 @@ contact.html              Contact form
 login.html, signup.html   Placeholder account pages
 assets/
   css/styles.css          All site styles (themes, phone layout, print)
-  css/login.css           Login / sign-up page styles
   js/main.js              All site behavior
   complaints/             Complaint PDFs: possession/, delivery/, other/
   icons/                  Favicon, home-screen icons, web manifest
-  img/                    Carousel and team photos
+  img/                    Carousel and team photos (WebP)
 .github/workflows/pages.yml   Publishes the site to GitHub Pages
 ```
 
